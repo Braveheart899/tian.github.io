@@ -12,8 +12,8 @@ body {
   width: 100%;
   height: 100%;
   font-family: $font-family;
-  background: $color-white;
-  color: $color-black-2;
+  background: $color-cute;
+  color: $color-orig;
   -webkit-font-smoothing: antialiased;
 }
 a {
